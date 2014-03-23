@@ -1,6 +1,6 @@
 name             'policy-rcd'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Justin Alan Ryan'
+maintainer_email 'bitmonk@bitmonk.net'
 license          'All rights reserved'
 description      'Installs/Configures policy-rcd'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

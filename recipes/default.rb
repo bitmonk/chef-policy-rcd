@@ -2,7 +2,7 @@
 # Cookbook Name:: policy-rcd
 # Recipe:: default
 #
-# Copyright (C) 2014 YOUR_NAME
+# Copyright (C) 2014 Justin Alan Ryan
 # 
 # All rights reserved - Do Not Redistribute
 #
